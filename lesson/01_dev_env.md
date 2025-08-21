@@ -9,4 +9,4 @@
 ## 软件下载
 在官网[下载页面](https://yandev.ubtrobot.com/#/zh/download)可下载机器人固件以及app。
 
-![image-20250821154919934](01_dev_env_assets/image-20250821154919934.png)
+![image-20250821154919934](./01_dev_env_assets/image-20250821154919934.png)
