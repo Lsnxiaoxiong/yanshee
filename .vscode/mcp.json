@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "sequential-thinking": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ]
+    },
+    "tengxunmap": {
+      "url": "https://mcp.map.qq.com/mcp?key=3X5BZ-J7NWT-DWVXH-LRJND-MYVXK-3CBMD\u0026format=0"
+    }
+  }
+}
